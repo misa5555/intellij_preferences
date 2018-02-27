@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Sites/wap-integration-test/commands/login.js" timestamp="1519758902401" />
-      <file name="/Dummy.txt" timestamp="1519761552643">
+      <file name="/Dummy.txt" timestamp="1519772171627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/bin/wap-integration-test.sh" timestamp="1519757899068">
@@ -13,8 +13,20 @@
         <mark key="^" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/index.jsx" timestamp="1519772170630">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1519758904812">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/index.jsx" timestamp="1519772419580" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1519771782219">
+        <mark key="[" line="676" column="6" />
+        <mark key="]" line="676" column="6" />
+        <mark key="." line="676" column="6" />
+        <mark key="^" line="677" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1519761551436" />
       <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1519758243836">
@@ -30,20 +42,29 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmdvVG8oJy9hdWRpZW5jZScpCg==</text>
+      <register name="0" type="4">
+        <text>productSetActionsBoxFormatter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gLmdvVG8oJy9hdWRpZW5jZScpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG5hbWU6ICdMYXN0IHJlZnJlc2hlZCBkYXRlJywgZGF0YVNvcnQ6IHRydWUsIGRhdGFGaWVsZDogJ3JlZnJlc2hlZF9hdCcsIGRhdGFGb3JtYXQ6IGZvcm1hdERhdGUsIHdpZHRoOiAnMTUwJyB9LAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG5hbWU6ICdMYXN0IHJlZnJlc2hlZCBkYXRlJywgZGF0YVNvcnQ6IHRydWUsIGRhdGFGaWVsZDogJ3JlZnJlc2hlZF9hdCcsIGRhdGFGb3JtYXQ6IGZvcm1hdERhdGUsIHdpZHRoOiAnMTUwJyB9LAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG5hbWU6ICdEZXNjcmlwdGlvbicsIGRhdGFTb3J0OiB0cnVlLCBkYXRhRmllbGQ6ICdkZXNjcmlwdGlvbicgfSwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gLmdvVG8oJy9hdWRpZW5jZScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
