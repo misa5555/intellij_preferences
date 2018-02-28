@@ -8,7 +8,7 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519778862982">
+      <file name="/Dummy.txt" timestamp="1519844413702">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/bin/wap-integration-test.sh" timestamp="1519757899068">
@@ -18,17 +18,9 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/index.jsx" timestamp="1519778084724">
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1519842839514">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="685" column="84" />
-        <mark key="]" line="685" column="82" />
-        <mark key="." line="685" column="82" />
-        <mark key="^" line="685" column="61" />
-        <mark key="o" line="685" column="61" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1519761551436" />
       <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1519758243836">
@@ -40,12 +32,24 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/campaign/CampaignDetailItem.jsx" timestamp="1519844069395" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/renderer/campaignDetailItem.js" timestamp="1519844282475" />
       <file name="/JavaScript Console" timestamp="1519758904812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/index.jsx" timestamp="1519772419580" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/CampaignV2.jsx" timestamp="1519844371733">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/CampaignDetail.jsx" timestamp="1519844215451">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/launch-nightwatch.js" timestamp="1519757908212" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Create.jsx" timestamp="1519842778425">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Create.jsx" timestamp="1519843698298">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="46" />
         <mark key="." line="34" column="46" />
@@ -53,16 +57,16 @@
     </filemarks>
     <jumps>
       <jump line="788" column="6" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
-      <jump line="685" column="61" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
       <jump line="6" column="20" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
+      <jump line="685" column="99" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>formatormat</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS1kZWxpbWl0ZWQgcHVsbC1yaWdodCI+CiAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImRlZmF1bHQtY29sb3IiCiAgICAgICAgICAgICAgICAgICAgICB0bz17YC9jYW1wYWlnbnMvJHtjYW1wYWlnbkl0ZW0uaWR9L2VkaXRgfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4gYnRuLXhzIGJ0bi1ibHVlIgogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLXBlbmNpbCIgLz4gRWRpdAogICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>formatormat</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -71,31 +75,31 @@
         <text encoding="base64">ICAgICAgPGgyPlBsYXRmb3JtcyA8VG9vbHRpcCB0b29sdGlwTWVzc2FnZT0iVE9ETyBNZXNzYWdlIEhlcmUiIC8+PC9oMj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhybyAgdyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS1kZWxpbWl0ZWQgcHVsbC1yaWdodCI+CiAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImRlZmF1bHQtY29sb3IiCiAgICAgICAgICAgICAgICAgICAgICB0bz17YC9jYW1wYWlnbnMvJHtjYW1wYWlnbkl0ZW0uaWR9L2VkaXRgfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4gYnRuLXhzIGJ0bi1ibHVlIgogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLXBlbmNpbCIgLz4gRWRpdAogICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgY2FtcGFpZ25JdGVtOiB7CiAgICAgIH0sCiAgICB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBsYXN0UmVmcmVzaCAgIGVkQWQgPSByb3cucmVmcmVzaGVkX2F0Owo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RpdmUsCiAgICAgICAgY2hhbm5lbCwKICAgICAgICBzdGFydF9kYXRlLAogICAgICAgIGVuZF9kYXRlLAogICAgICAgIGRhaWx5X2J1ZGdldCwKICAgICAgICBlbmFibGVfcGFjaW5nLAogICAgICAgIGRhaWx5X2J1ZGdldF9pbXBzLAogICAgICAgIGxpZmV0aW1lX2J1ZGdldF9pbXBzLAogICAgICAgIGxpZmV0aW1lX2J1ZGdldCwKICAgICAgICBsaWZldGltZV9wYWNpbmcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5hY3RpdmVTdHJhdGVnaWVzQ291bnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMj5QbGF0Zm9ybXMgPFRvb2x0aXAgdG9vbHRpcE1lc3NhZ2U9IlRPRE8gTWVzc2FnZSBIZXJlIiAvPjwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgYWN0aXZlU3RyYXRlZ2llc0NvdW50LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG5hbWU6ICdMYXN0IHJlZnJlc2hlZCBkYXRlJywgZGF0YVNvcnQ6IHRydWUsIGRhdGFGaWVsZDogJ3JlZnJlc2hlZF9hdCcsIGRhdGFGb3JtYXQ6IGZvcm1hdERhdGUsIHdpZHRoOiAnMTUwJyB9LAo=</text>
+        <text encoding="base64">ICAgICAgcHJvZHVjdHNldHMsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2FtcGFpZ25EZXRhaWxJdGVtIH0gZnJvbSAnLi4vLi4vLi4vY29tcG9uZW50cy9jYW1wYWlnbic7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IG5hbWU6ICdEZXNjcmlwdGlvbicsIGRhdGFTb3J0OiB0cnVlLCBkYXRhRmllbGQ6ICdkZXNjcmlwdGlvbicgfSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgbnVtYmVyV2l0aENvbW1hcyB9IGZyb20gJy4uLy4uLy4uL3V0aWxzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gLmdvVG8oJy9hdWRpZW5jZScpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgYXN5bmNDb25uZWN0IH0gZnJvbSAncmVkdXgtYXN5bmMtY29ubmVjdCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
