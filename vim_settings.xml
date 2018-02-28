@@ -22,12 +22,12 @@
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1519778909904">
-        <mark key="'" line="791" column="6" />
-        <mark key="[" line="687" column="47" />
-        <mark key="]" line="687" column="47" />
-        <mark key="." line="687" column="47" />
-        <mark key="^" line="685" column="64" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1519842839514">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="685" column="84" />
+        <mark key="]" line="685" column="82" />
+        <mark key="." line="685" column="82" />
+        <mark key="^" line="685" column="61" />
         <mark key="o" line="685" column="61" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1519761551436" />
@@ -45,7 +45,7 @@
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/index.jsx" timestamp="1519772419580" />
       <file name="$USER_HOME$/Sites/wap-integration-test/launch-nightwatch.js" timestamp="1519757908212" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Create.jsx" timestamp="1519778928974">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Create.jsx" timestamp="1519842778425">
         <mark key="[" line="34" column="46" />
         <mark key="]" line="34" column="46" />
         <mark key="." line="34" column="46" />
@@ -53,13 +53,19 @@
     </filemarks>
     <jumps>
       <jump line="788" column="6" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
+      <jump line="685" column="61" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
+      <jump line="6" column="20" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>formatormat</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>formatormat</text>
+      </register>
+      <register name="/" type="4">
+        <text>moment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPGgyPlBsYXRmb3JtcyA8VG9vbHRpcCB0b29sdGlwTWVzc2FnZT0iVE9ETyBNZXNzYWdlIEhlcmUiIC8+PC9oMj4K</text>
@@ -96,11 +102,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>moment</last-search>
+      <last-offset />
+      <last-pattern>moment</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>moment</entry>
+      </history-search>
       <history-cmd>
         <entry>split</entry>
         <entry>vsplit</entry>
