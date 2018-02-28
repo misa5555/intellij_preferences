@@ -19,10 +19,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1519758243836">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
+      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1519856002397">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/campaign/CampaignDetailItem.jsx" timestamp="1519844069395" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/renderer/campaignDetailItem.js" timestamp="1519844282475" />
@@ -32,7 +34,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="336" column="25" />
       </file>
-      <file name="/JavaScript Console" timestamp="1519853703380">
+      <file name="/JavaScript Console" timestamp="1519856006846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/api/index.js" timestamp="1519847345757">
@@ -135,6 +137,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
       <jump line="6" column="20" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
       <jump line="685" column="99" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
+      <jump line="0" column="9" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -201,6 +204,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
