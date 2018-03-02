@@ -33,6 +33,11 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceTableFields.js" timestamp="1520017025544">
         <mark key="[" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1520032971048">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1519882987428">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="58" column="0" />
@@ -40,9 +45,9 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520031556741">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="133" column="11" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520032520600">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="39" />
       </file>
       <file name="/JavaScript Console" timestamp="1520016101828">
         <mark key="[" line="0" column="0" />
@@ -63,8 +68,8 @@
       <jump line="0" column="14" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/audience/propensity.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.props.campaignOptions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe3ZhbHVlOiAnZGZwJywgdGV4dDogJ0RGUCd9XX0K</text>
       </register>
       <register name="-" type="4">
         <text>this.props.campaignOptions</text>
@@ -73,34 +78,34 @@
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxNdWx0aVNlbGVjdEZpZWxkCiAgICAgICAgICAgIG5hbWU9ImNhbXBhaWduIgogICAgICAgICAgICBjbGFzc05hbWU9Im5vLWxlZnQtcGFkZGluZyIKICAgICAgICAgICAgbGFiZWxOYW1lPSJBc3NvY2lhdGVkIGNhbXBhaWduIgogICAgICAgICAgICBkYXRhPXt0aGlzLnByb3BzLmNhbXBhaWduT3B0aW9uc30KICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe3ZhbHVlOiAnZGZwJywgdGV4dDogJ0RGUCd9XX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe3ZhbHVlOiAnZGZwJywgdGV4dDogJ0RGUCd9XX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy00IiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAnNDBweCcsIHBhZGRpbmdUb3A6IDEwIH19PgogICAgICAgICAgICAgICAgICAgIDxDaGVja2JveEZpZWxkCiAgICAgICAgICAgICAgICAgICAgICBsYWJlbE5hbWU9IkJ1aWxkIEF1ZGllbmNlIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0idXBsb2FkX2RmcCIKICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy00IiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAnNDBweCcsIHBhZGRpbmdUb3A6IDEwIH19PgogICAgICAgICAgICAgICAgICA8Q2hlY2tib3hGaWVsZAogICAgICAgICAgICAgICAgICAgIGxhYmVsTmFtZT0iQnVpbGQgQXVkaWVuY2UiCiAgICAgICAgICAgICAgICAgICAgbmFtZT0idXBsb2FkX2RmcCIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9InJvdyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
