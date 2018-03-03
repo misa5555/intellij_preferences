@@ -32,7 +32,7 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceTableFields.js" timestamp="1520040545331">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceTableFields.js" timestamp="1520041435333">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="11" />
         <mark key="." line="15" column="11" />
@@ -48,6 +48,11 @@
         <mark key="]" line="57" column="27" />
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/dotenv/env-dev" timestamp="1520041467826">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520032520600">
         <mark key="[" line="8" column="0" />
@@ -73,10 +78,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dfp</text>
+        <text>stg.wmx.walmart.com/</text>
       </register>
       <register name="-" type="4">
-        <text>dfp</text>
+        <text>stg.wmx.walmart.com/</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
