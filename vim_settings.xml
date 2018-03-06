@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Campaign.jsx" timestamp="1520365790363">
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="146" column="24" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Campaign.jsx" timestamp="1520366891777">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520363603997">
+      <file name="/Dummy.txt" timestamp="1520366805360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -57,11 +57,11 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520365830637">
-        <mark key="[" line="221" column="9" />
-        <mark key="]" line="219" column="18" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520366904242">
+        <mark key="[" line="213" column="36" />
+        <mark key="]" line="213" column="36" />
         <mark key="^" line="210" column="19" />
-        <mark key="." line="219" column="18" />
+        <mark key="." line="213" column="36" />
       </file>
       <file name="/JavaScript Console" timestamp="1520016101828">
         <mark key="[" line="0" column="0" />
@@ -87,17 +87,17 @@
       <jump line="0" column="14" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/audience/propensity.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9oZWFkZXI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>campaignItem</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>campaignItem</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJzcGFjZS1kZWxpbWl0ZWQgcHVsbC1yaWdodCI+CiAgICAgICAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgICAgICAgICBjbGFzc05hbWU9ImRlZmF1bHQtY29sb3IiCiAgICAgICAgICAgICAgICAgICAgICB0bz17YC9jYW1wYWlnbnMvJHtjYW1wYWlnbkl0ZW0uaWR9L2VkaXRgfQogICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJidG4gYnRuLXhzIGJ0bi1ibHVlIgogICAgICAgICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImZhIGZhLXBlbmNpbCIgLz4gRWRpdAogICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgPC9MaW5rPgogICAgICAgICAgICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8TGluawogICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJkZWZhdWx0LWNvbG9yIgogICAgICAgICAgICAgICAgICAgICAgdG89e2AvY2FtcGFpZ25zLyR7Y2FtcGFpZ25JdGVtLmlkfS9lZGl0YH0KICAgICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0iYnRuIGJ0bi14cyBidG4tYmx1ZSIKICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3NOYW1lPSJmYSBmYS1wZW5jaWwiIC8+IEVkaXQKICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvTGluaz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9oZWFkZXI+Cg==</text>
