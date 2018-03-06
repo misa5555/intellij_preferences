@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520292283573">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Campaign.jsx" timestamp="1520363542708">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520363603997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -11,9 +16,9 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Create2.jsx" timestamp="1520290045818" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/dfp/index.js" timestamp="1519863315766">
         <mark key="[" line="61" column="50" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="64" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="5" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1519862504012">
         <mark key="[" line="0" column="0" />
@@ -39,7 +44,7 @@
         <mark key="." line="15" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/user.js" timestamp="1520213729859" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1520292144049">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1520363124817">
         <mark key="[" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1519882987428">
@@ -49,12 +54,12 @@
         <mark key="." line="57" column="27" />
         <mark key="^" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/dotenv/env-dev" timestamp="1520041467826">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/reducers/campaign.js" timestamp="1520363602989">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520032520600">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520363639280">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="10" column="39" />
       </file>
@@ -63,6 +68,12 @@
       </file>
       <file name="module.js" timestamp="1519865884027">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/CampaignV2.jsx" timestamp="1520363582184">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1519866255118">
         <mark key="[" line="83" column="44" />
@@ -77,11 +88,11 @@
       <jump line="0" column="14" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/audience/propensity.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stg.wmx.walmart.com/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBlZGl0Q2FtcGFpZ246IFByb3BUeXBlcy5mdW5jLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>stg.wmx.walmart.com/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
@@ -90,31 +101,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe3ZhbHVlOiAnZGZwJywgdGV4dDogJ0RGUCd9XX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe3ZhbHVlOiAnZGZwJywgdGV4dDogJ0RGUCd9XX0K</text>
+        <text encoding="base64">ICBlZGl0Q2FtcGFpZ246IFByb3BUeXBlcy5mdW5jLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy00IiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAnNDBweCcsIHBhZGRpbmdUb3A6IDEwIH19PgogICAgICAgICAgICAgICAgICAgIDxDaGVja2JveEZpZWxkCiAgICAgICAgICAgICAgICAgICAgICBsYWJlbE5hbWU9IkJ1aWxkIEF1ZGllbmNlIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0idXBsb2FkX2RmcCIKICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBlZGl0Q2FtcGFpZ246IFByb3BUeXBlcy5mdW5jLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy00IiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAnNDBweCcsIHBhZGRpbmdUb3A6IDEwIH19PgogICAgICAgICAgICAgICAgICA8Q2hlY2tib3hGaWVsZAogICAgICAgICAgICAgICAgICAgIGxhYmVsTmFtZT0iQnVpbGQgQXVkaWVuY2UiCiAgICAgICAgICAgICAgICAgICAgbmFtZT0idXBsb2FkX2RmcCIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBlZGl0Q2FtcGFpZ24sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBlZGl0Q2FtcGFpZ24sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gdmFsaWRTdGFydERhdGUoc3RhcnRfZGF0ZSkgewogIGlmICghc3RhcnRfZGF0ZSkgewogICAgcmV0dXJuIGZhbHNlOwogIH0KICBjb25zdCBzdGFydERhdGUgPSBtb21lbnQoc3RhcnRfZGF0ZSkudW5peCgpOwogIGNvbnN0IGN1cnJlbnREYXRlID0gbW9tZW50KCkudW5peCgpOwogIHJldHVybiBjdXJyZW50RGF0ZSA8IHN0YXJ0RGF0ZTsKfQpmdW5jdGlvbiB2YWxpZEVuZERhdGUoZW5kX2RhdGUpIHsKICBpZiAoIWVuZF9kYXRlKSB7CiAgICByZXR1cm4gZmFsc2U7CiAgfQogIGNvbnN0IGVuZFJlcG9ydGluZ0RhdGUgPSBtb21lbnQoZW5kX2RhdGUpLmFkZCg3LCAnZGF5cycpLnVuaXgoKTsKICBjb25zdCBjdXJyZW50RGF0ZSA9IG1vbWVudCgpLnVuaXgoKTsKICByZXR1cm4gZW5kUmVwb3J0aW5nRGF0ZSA+IGN1cnJlbnREYXRlOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe3ZhbHVlOiAnZGZwJywgdGV4dDogJ0RGUCd9XX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy00IiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAnNDBweCcsIHBhZGRpbmdUb3A6IDEwIH19PgogICAgICAgICAgICAgICAgICAgIDxDaGVja2JveEZpZWxkCiAgICAgICAgICAgICAgICAgICAgICBsYWJlbE5hbWU9IkJ1aWxkIEF1ZGllbmNlIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0idXBsb2FkX2RmcCIKICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9ImNvbC14cy00IiBzdHlsZT17eyBsaW5lSGVpZ2h0OiAnNDBweCcsIHBhZGRpbmdUb3A6IDEwIH19PgogICAgICAgICAgICAgICAgICA8Q2hlY2tib3hGaWVsZAogICAgICAgICAgICAgICAgICAgIGxhYmVsTmFtZT0iQnVpbGQgQXVkaWVuY2UiCiAgICAgICAgICAgICAgICAgICAgbmFtZT0idXBsb2FkX2RmcCIKICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
