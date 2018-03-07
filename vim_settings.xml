@@ -63,7 +63,7 @@
         <mark key="^" line="215" column="20" />
         <mark key="." line="224" column="18" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520016101828">
+      <file name="/JavaScript Console" timestamp="1520461815530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="module.js" timestamp="1519865884027">
@@ -81,6 +81,9 @@
         <mark key="[" line="172" column="13" />
         <mark key="]" line="174" column="21" />
         <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/login.js" timestamp="1520461808073">
+        <mark key="[" line="15" column="8" />
       </file>
     </filemarks>
     <jumps>
