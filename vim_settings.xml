@@ -120,6 +120,11 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/package.json" timestamp="1520603425058">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1520561294142">
         <mark key="[" line="83" column="44" />
       </file>
@@ -146,11 +151,11 @@
       <jump line="0" column="7" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5ID0gbWVyZ2UoZGVmYXVsdENyZWRlbnRpYWxzLCBjcmVkc0Zyb21TZXNzaW9uKTsK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
