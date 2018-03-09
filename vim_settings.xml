@@ -3,14 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/audiences.js" timestamp="1520552774842" />
       <file name="net.js" timestamp="1520538328944">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/dfp/index.js" timestamp="1520544891670">
-        <mark key="[" line="61" column="50" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/dfp/index.js" timestamp="1520553954115">
+        <mark key="[" line="141" column="90" />
+        <mark key="]" line="18" column="19" />
       </file>
       <file name="/fragment.js" timestamp="1519862504012">
         <mark key="[" line="0" column="0" />
@@ -20,21 +19,25 @@
         <mark key="]" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/google-auth-library/node_modules/tunnel-agent/index.js" timestamp="1520538487111" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/fb/index.js" timestamp="1520552389778">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/settings.js" timestamp="1519866645481">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1520467151652">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/index.js" timestamp="1520552035452">
+        <mark key="[" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/audience/propensity.js" timestamp="1520463081750">
-        <mark key="'" line="8" column="5" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wapDataApi.js" timestamp="1520552125211">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/apn/api/get.js" timestamp="1520555794594" />
       <file name="events.js" timestamp="1520538317379">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,27 +46,45 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520544975116">
+      <file name="/JavaScript Console" timestamp="1520555602166">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/node-google-dfp/lib/DfpUser.js" timestamp="1520473317456" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/campaigns.js" timestamp="1520545018157" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/wmx/audience/index.js" timestamp="1520553093087">
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/campaigns.js" timestamp="1520553922017">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="35" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/index.js" timestamp="1520550551600">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/Campaign.jsx" timestamp="1520368891430">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520544864491">
+      <file name="/Dummy.txt" timestamp="1520555795501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Create2.jsx" timestamp="1520290045818" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/rails/api/fetch.js" timestamp="1520544909258" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/rails/api/fetch.js" timestamp="1520554086450">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/index.jsx" timestamp="1520015928840">
         <mark key="[" line="140" column="123" />
         <mark key="]" line="140" column="123" />
         <mark key="." line="140" column="123" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/strategies.js" timestamp="1520552848790">
+        <mark key="[" line="8" column="68" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceTableFields.js" timestamp="1520041435333">
         <mark key="[" line="15" column="11" />
@@ -73,14 +94,19 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/user.js" timestamp="1520471129503">
         <mark key="[" line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1520363124817" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/api/orders.js" timestamp="1520472289239" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/Item.jsx" timestamp="1520368765018">
-        <mark key="[" line="214" column="43" />
-        <mark key="]" line="224" column="18" />
-        <mark key="^" line="215" column="20" />
-        <mark key="." line="224" column="18" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/apn/index.js" timestamp="1520555536092">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="36" column="30" />
+        <mark key="." line="36" column="30" />
+        <mark key="^" line="36" column="30" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/index.js" timestamp="1520553154949">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/apn/api/login.js" timestamp="1520555985381" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/config/base.js" timestamp="1520550474639" />
       <file name="module.js" timestamp="1519865884027">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,7 +115,7 @@
         <mark key="]" line="205" column="0" />
         <mark key="." line="205" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1519866255118">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1520546676902">
         <mark key="[" line="83" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/AudienceDetail.jsx" timestamp="1520467651443">
@@ -114,44 +140,44 @@
       <jump line="0" column="7" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIENsZWFuIHVwIChyZW1vdmUgQ2FtcGFpZ24gYW5kIFN0cmF0ZWdpZXMgZnJvbSBkYXRhLWFwaSBEQikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.end()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIENsZWFuIHVwIChyZW1vdmUgQ2FtcGFpZ24gYW5kIFN0cmF0ZWdpZXMgZnJvbSBkYXRhLWFwaSBEQikK</text>
+        <text encoding="base64">ICBnZXRXYXBEYXRhQXBpVVJMLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIENsZWFuIHVwIChyZW1vdmUgQ2FtcGFpZ24gYW5kIFN0cmF0ZWdpZXMgZnJvbSBkYXRhLWFwaSBEQikK</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9hdWRpZW5jZXMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNyZWRlbnRpYWxzID0geyBlbWFpbDogV0FQX1VTRVIsIHBhc3N3b3JkOiBXQVBfUEFTU1dPUkQgfTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2FwRGF0YUFQSSB9IGZyb20gJy4uLy4uLy4uLy4uL2NvbmZpZyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIKICAgICAgLmFwaVBvc3QoYCR7V0FQREFUQV9BUElfVVJMfS9hdXRoL2xvZ2luLmpzb25gLCBjcmVkZW50aWFscywgbnVsbCwgZnVuY3Rpb24ocmVzcG9uc2UpewogICAgICAgIGNvbnN0IGF1dGhUb2tlbiA9IHJlc3BvbnNlLmJvZHkuYXV0aF90b2tlbjsKICAgICAgICBjb25zdCBwb3N0Qm9keSA9IHsgZXh0ZXJuYWxfaWQ6IGV4dGVybmFsSWQgfTsKICAgICAgICBicm93c2VyCiAgICAgICAgICAuYXBpUG9zdChgJHtXQVBEQVRBX0FQSV9VUkx9L2NhbXBhaWducy9oYXJkX2RlbGV0ZS5qc29uYCwgcG9zdEJvZHksIGF1dGhUb2tlbiwgZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UuYm9keS5tZXNzYWdlKTsKICAgICAgICAgIH0pOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICBsZXQgd2FwRGF0YUFQSVVSTCA9IHdhcERhdGFBUEk7CiAgaWYgKHJlcS5zZXNzaW9uLmNvbmZpZyAmJiByZXEuc2Vzc2lvbi5jb25maWcud2FwRGF0YUFQSSkgewogICAgd2FwRGF0YUFQSVVSTCA9IHJlcS5zZXNzaW9uLmNvbmZpZy53YXBEYXRhQVBJOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvbmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJyb3dzZXIpOwo=</text>
+        <text encoding="base64">ICBjb25zdCB3YXBEYXRhQVBJID0g4oCM4oCMcmVxLnNlc3Npb24uY29uZmlnLndhcERhdGFBUEk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGRvbmUoKTsK</text>
+        <text encoding="base64">ICBsZXQgd2FwRGF0YUFwaSA9IHdhcERhdGFBUEkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9uZSgpOwo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXIuZW5kKCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB3YXBEYXRhQXBpID0g4oCM4oCMcmVxLnNlc3Npb24uY29uZmlnLndhcERhdGFBUEk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRvbiAgIGUoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgd2FwRGF0YUFQSSB9IGZyb20gJy4uLy4uLy4uLy4uL2NvbmZpZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
