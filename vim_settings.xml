@@ -70,7 +70,7 @@
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520623598955">
+      <file name="/Dummy.txt" timestamp="1520624602656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -81,6 +81,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/bin/wap-integration-test.sh" timestamp="1520623660306" />
+      <file name="$USER_HOME$/Sites/wap-integration-test/nightwatch.conf.js" timestamp="1520624583755">
+        <mark key="[" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/index.jsx" timestamp="1520015928840">
         <mark key="[" line="140" column="123" />
         <mark key="]" line="140" column="123" />
