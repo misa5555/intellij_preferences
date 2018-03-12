@@ -57,7 +57,7 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520875928125">
+      <file name="/JavaScript Console" timestamp="1520877257236">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/utils/dfpFormat.js" timestamp="1520735185818">
@@ -110,6 +110,9 @@
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/imports/DfpImport.jsx" timestamp="1520735573160" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/apn/index.js" timestamp="1520875942884" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/dotenv/env-dev" timestamp="1520877236086">
+        <mark key="[" line="6" column="25" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/index.js" timestamp="1520553154949">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
