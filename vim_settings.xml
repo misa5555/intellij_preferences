@@ -58,7 +58,7 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1520976077777">
+      <file name="/JavaScript Console" timestamp="1520987003996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/utils/dfpFormat.js" timestamp="1520880209559">
@@ -151,6 +151,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/wmx/index.js" timestamp="1520986978205" />
     </filemarks>
     <jumps>
       <jump line="788" column="6" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
