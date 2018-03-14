@@ -27,12 +27,12 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/index.js" timestamp="1520552035452">
         <mark key="[" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1521055256589">
+      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" timestamp="1521062602863">
         <mark key="'" line="27" column="33" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="10" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="vm:4544" timestamp="1520735073731">
         <mark key="[" line="0" column="0" />
@@ -61,7 +61,7 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1521055183600">
+      <file name="/JavaScript Console" timestamp="1521062544626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/utils/dfpFormat.js" timestamp="1520880209559">
@@ -83,7 +83,7 @@
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521055290186">
+      <file name="/Dummy.txt" timestamp="1521060695087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -130,6 +130,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/imports/FacebookImport.jsx" timestamp="1521062567866">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="48" column="15" />
+        <mark key="." line="48" column="15" />
+        <mark key="^" line="49" column="20" />
+      </file>
       <file name="module.js" timestamp="1519865884027">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,46 +177,46 @@
       <jump line="27" column="33" filename="$USER_HOME$/Sites/wap-integration-test/nw_tests/campaign/import.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBicm93c2VyLmVuZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aWYoaW1wb3J0ZWQpIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.end();</text>
+        <text encoding="base64">aWYoaW1wb3J0ZWQpIA==</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBnZXRXYXBEYXRhQXBpVVJMLAo=</text>
+      <register name="0" type="4">
+        <text>'fa fa-refresh'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBicm93c2VyLmVuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZSA9IGltcG9ydGVkID8gJ2ZhIGZhLXJlZnJlc2gnIDogICAnZmEgZmEtY2xvdWQtZG93bmxvYWQnOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBicm93c2VyLmVuZCgpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGRvbmUgICAgICAgICgpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>.perform(function(done) {
           done();
         });</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldHVybiByZXNwb25zZS5ib2R5Lm1lc3NhZ2U7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBjcmVkZW50aWFscyA9IHsgZW1haWw6IFdBUF9VU0VSLCBwYXNzd29yZDogV0FQX1BBU1NXT1JEIH07Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAvLyBDbGVhbiB1cCAocmVtb3ZlIENhbXBhaWduIGFuZCBTdHJhdGVnaWVzIGZyb20gZGF0YS1hcGkgREIpCiAgYnJvd3NlcgogICAgLmFwaVBvc3QoYCR7V0FQREFUQV9BUElfVVJMfS9hdXRoL2xvZ2luLmpzb25gLCBjcmVkZW50aWFscywgbnVsbCwgZnVuY3Rpb24ocmVzcG9uc2UpewogICAgICBjb25zdCBhdXRoVG9rZW4gPSByZXNwb25zZS5ib2R5LmF1dGhfdG9rZW47CiAgICAgIGNvbnN0IHBvc3RCb2R5ID0geyBleHRlcm5hbF9pZDogZXh0ZXJuYWxJZCB9OwogICAgICBicm93c2VyCiAgICAgICAgLmFwaVBvc3QoYCR7V0FQREFUQV9BUElfVVJMfS9jYW1wYWlnbnMvaGFyZF9kZWxldGUuanNvbmAsIHBvc3RCb2R5LCBhdXRoVG9rZW4sIGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5ib2R5Lm1lc3NhZ2UpOwogICAgICAgIH0pOwogICAgfSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGRkYSc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5ID0gewogICAgLi4uZGVmYXVsdENyZWRlbnRpYWxzLAogICAgLi4uZ2V0Q3JlZHMoc2Vzc2lvbikKICB9Owo=</text>
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGRkYSc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvYC9n</text>
