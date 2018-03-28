@@ -213,7 +213,7 @@
         <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGRkYSc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLycvYC9n</text>
+        <text>104</text>
       </register>
     </registers>
     <search>
@@ -239,6 +239,7 @@
         <entry>141</entry>
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvYC9n</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
