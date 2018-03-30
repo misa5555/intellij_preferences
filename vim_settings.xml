@@ -83,7 +83,7 @@
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522440530123">
+      <file name="/Dummy.txt" timestamp="1522450701469">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -120,6 +120,7 @@
         <mark key="[" line="55" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/imports/DfpImport.jsx" timestamp="1522441427359" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/bower.json" timestamp="1522450725669" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/dotenv/env-dev" timestamp="1522440993686">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
