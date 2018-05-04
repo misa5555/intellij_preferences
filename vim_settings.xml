@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/wmx-ads-api/api/helpers/pages/search.js" timestamp="1525131936890" />
       <file name="net.js" timestamp="1520538328944">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/midas/src/v3/setupStore.js" timestamp="1525467381646" />
       <file name="/fragment.js" timestamp="1520647690200">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,6 +139,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/midas/src/v3/DisplayAds.js" timestamp="1525467460818" />
       <file name="module.js" timestamp="1519865884027">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +153,7 @@
         <mark key="]" line="199" column="18" />
         <mark key="." line="199" column="18" />
       </file>
+      <file name="$USER_HOME$/Sites/midas/src/v3/setupAdRenderer.js" timestamp="1525467404292" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/imports/ImportBase.jsx" timestamp="1522702682222">
         <mark key="[" line="49" column="28" />
         <mark key="]" line="49" column="0" />
@@ -225,7 +227,7 @@
         <text encoding="base64">ICAgICJqcXVlcnkuc3BhcmtsaW5lIjogIn4yLjEuNCIsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>104</text>
+        <text>1418</text>
       </register>
     </registers>
     <search>
@@ -252,6 +254,7 @@
         <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLycvYC9n</entry>
         <entry>104</entry>
+        <entry>1418</entry>
       </history-cmd>
       <history-expr />
       <history-input />
