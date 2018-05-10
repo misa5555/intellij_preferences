@@ -62,7 +62,7 @@
         <mark key="." line="371" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/reducers/apnImport.js" timestamp="1525907135189" />
-      <file name="/JavaScript Console" timestamp="1525132032810">
+      <file name="/JavaScript Console" timestamp="1525911445356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/utils/dfpFormat.js" timestamp="1522696555153">
@@ -74,7 +74,8 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/wmx/audience/index.js" timestamp="1520553093087">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/index.js" timestamp="1520968365093">
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/campaigns.js" timestamp="1525909888769" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/index.js" timestamp="1525910210051">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="27" column="4" />
@@ -84,7 +85,7 @@
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525907481902">
+      <file name="/Dummy.txt" timestamp="1525910999444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -105,6 +106,9 @@
         <mark key="[" line="140" column="123" />
         <mark key="]" line="140" column="123" />
         <mark key="." line="140" column="123" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/epics/queryApnImports.js" timestamp="1525911006869">
+        <mark key="[" line="5" column="130" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/strategies.js" timestamp="1520552848790">
         <mark key="[" line="8" column="68" />
@@ -129,7 +133,12 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/config/webpack/scripts.js" timestamp="1522452928440">
         <mark key="[" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/apn/index.js" timestamp="1525909392966" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/apn/index.js" timestamp="1525910998516">
+        <mark key="[" line="75" column="2" />
+        <mark key="]" line="100" column="3" />
+        <mark key="^" line="46" column="13" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/apn/api/reports.js" timestamp="1525907278805" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/index.js" timestamp="1520553154949">
         <mark key="[" line="5" column="0" />
@@ -198,7 +207,7 @@
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB9CiAgY29uc3QgeyBkYXRlLCBob3VyLCBtaW51dGUsIHNlY29uZCwgdGltZVpvbmVJRCB9ID0gZGF0ZU9iajsK</text>
+        <text encoding="base64">ICAgICAgQVBOR2V0KCcvaW5zZXJ0aW9uLW9yZGVyJywgeyBudW1fZWxlbWVudHM6IExJTUlULCBvZmZzZXQ6IE9GRlNFVCwgc2VhcmNoOiBOQU1FLCBhZHZlcnRpc2VyX2lkOiByZXEuc2Vzc2lvbi5hY2NvdW50cy5hcG4gJiYgcmVxLnNlc3Npb24uYWNjb3VudHMuYXBuLmlkIH0sIHJlcS5zZXNzaW9uKS50aGVuKChyZXNwKSA9PiB7CiAgICAgICAgY29uc3QgcmVzcG9uc2UgPSByZXNwLmJvZHkgJiYgcmVzcC5ib2R5LnJlc3BvbnNlOwogICAgICAgIGlmIChyZXNwb25zZSkgewogICAgICAgICAgY29uc3QgYXBuT3JkZXJzUmVzdWx0ID0gcmVzcG9uc2VbJ2luc2VydGlvbi1vcmRlcnMnXS5tYXAoKElPKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHsgYnVkZ2V0X2ludGVydmFscyB9ID0gSU87CiAgICAgICAgICAgIGlmIChidWRnZXRfaW50ZXJ2YWxzICYmIGJ1ZGdldF9pbnRlcnZhbHMgIT09IFtdKSB7CiAgICAgICAgICAgICAgbGV0IGRhdGVzID0gYnVkZ2V0X2ludGVydmFscy5tYXAoYSA9PiBhLnN0YXJ0X2RhdGUpLmNvbmNhdChidWRnZXRfaW50ZXJ2YWxzLm1hcChhID0+IGEuZW5kX2RhdGUpKTsKICAgICAgICAgICAgICBkYXRlcy5zb3J0KChhLCBiKSA9PiBuZXcgRGF0ZShiKSAtIG5ldyBEYXRlKGEpKTsgLy8gc29ydCBmcm9tIG1vc3QgcmVjZW50IHRvIG9sZGVzdAogICAgICAgICAgICAgIGlmICghSU8uc3RhcnRfZGF0ZSkgewogICAgICAgICAgICAgICAgSU8uc3RhcnREYXRlVGltZSA9IGRhdGVzW2RhdGVzLmxlbmd0aCAtIDFdOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBpZiAoIUlPLmVuZF9kYXRlKSB7CiAgICAgICAgICAgICAgICBJTy5lbmREYXRlVGltZSA9IGRhdGVzWzBdOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBJTy5pbXBvcnRlZCA9ICEhd214QXBuRXh0ZXJuYWxJZHNPYmpbSU8uaWRdOwogICAgICAgICAgICByZXR1cm4gSU87CiAgICAgICAgICB9KTsKICAgICAgICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHsgc3RhcnRJbmRleDogT0ZGU0VULCB0b3RhbFJlc3VsdFNldFNpemU6IHJlc3BvbnNlLmNvdW50LCByZXN1bHRzOiBhcG5PcmRlcnNSZXN1bHQgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVW5leHBlY3RlZCByZXNwb25zZScpOwogICAgICAgIH0KICAgICAgfSkuY2F0Y2goKGVycikgPT4gewogICAgICAgIHJlcy5zdGF0dXMoNTAwKS5zZW5kKHsgZXJyIH0pOwogICAgICB9KTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgc3RhcnRUaW1lOwogICAgICAgIGxldCBlbmRUaW1lOwogICAgICAgIGlmICh0aW1lRmllbGRzKSB7CiAgICAgICAgICBzdGFydFRpbWUgPSBwYXJzZURmcERhdGVPYmoob3RoZXJzLnN0YXJ0RGF0ZVRpbWUpOwogICAgICAgICAgZW5kVGltZSA9IHBhcnNlRGZwRGF0ZU9iaihvdGhlcnMuZW5kRGF0ZVRpbWUpOwogICAgICAgIH0K</text>
