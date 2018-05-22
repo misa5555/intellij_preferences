@@ -3,8 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="net.js" timestamp="1520538328944">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.js" timestamp="1520647690200">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceFields.js" timestamp="1520290024344">
+        <mark key="[" line="19" column="11" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/fb/index.js" timestamp="1526679882780">
         <mark key="[" line="143" column="38" />
@@ -17,14 +25,41 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1526663570359" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/index.js" timestamp="1520552035452">
         <mark key="[" line="8" column="24" />
+      </file>
+      <file name="vm:4544" timestamp="1520735073731">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wapDataApi.js" timestamp="1520552125211">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="6" column="3" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/audience/propensity.js" timestamp="1521055202846">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1520896797028">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="2" column="1" />
+      </file>
+      <file name="events.js" timestamp="1520538317379">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/reducers/campaign.js" timestamp="1520363602989">
+        <mark key="[" line="371" column="0" />
+        <mark key="]" line="371" column="0" />
+        <mark key="." line="371" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1525911445356">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/facebook-ads-sdk/dist/cjs.js" timestamp="1526677151818">
+        <mark key="[" line="311" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/utils/dfpFormat.js" timestamp="1522696555153">
         <mark key="[" line="5" column="0" />
@@ -50,6 +85,19 @@
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1526679997109">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/rails/api/fetch.js" timestamp="1520554086450">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-integration-test/nightwatch.conf.js" timestamp="1520624583755">
+        <mark key="[" line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/index.jsx" timestamp="1520015928840">
         <mark key="[" line="140" column="123" />
         <mark key="]" line="140" column="123" />
@@ -61,8 +109,16 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/strategies.js" timestamp="1520552848790">
         <mark key="[" line="8" column="68" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceTableFields.js" timestamp="1520041435333">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
+      </file>
       <file name="vm:1607" timestamp="1521054901367">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/user.js" timestamp="1520647546337">
+        <mark key="[" line="55" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/bower.json" timestamp="1522451902372">
         <mark key="[" line="25" column="29" />
@@ -79,6 +135,14 @@
         <mark key="^" line="46" column="13" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/dotenv/env-dev" timestamp="1526947043858">
+        <mark key="[" line="3" column="39" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/index.js" timestamp="1520553154949">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/apn/api/login.js" timestamp="1520878754044">
         <mark key="[" line="27" column="56" />
         <mark key="]" line="25" column="0" />
@@ -89,7 +153,14 @@
         <mark key="]" line="8" column="38" />
         <mark key="." line="8" column="38" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/index.jsx" timestamp="1526676807286" />
+      <file name="module.js" timestamp="1519865884027">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/CampaignV2.jsx" timestamp="1520363582184">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/package.json" timestamp="1526677777015">
         <mark key="[" line="157" column="22" />
         <mark key="]" line="199" column="18" />
@@ -105,87 +176,14 @@
         <mark key="]" line="174" column="21" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/connections.js" timestamp="1526678504573" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1520561294142">
+        <mark key="[" line="83" column="44" />
+      </file>
       <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/login.js" timestamp="1520466098165">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="net.js" timestamp="1520538328944">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceFields.js" timestamp="1520290024344">
-        <mark key="[" line="19" column="11" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="19" column="11" />
-      </file>
-      <file name="vm:4544" timestamp="1520735073731">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/audience/propensity.js" timestamp="1521055202846">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sh" timestamp="1520896797028">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="2" column="1" />
-      </file>
-      <file name="events.js" timestamp="1520538317379">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/facebook-nodejs-business-sdk/package.json" timestamp="1526678330801" />
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/reducers/campaign.js" timestamp="1520363602989">
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="." line="371" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1525911445356">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/facebook-ads-sdk/dist/cjs.js" timestamp="1526677151818">
-        <mark key="[" line="311" column="21" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1526679997109">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/rails/api/fetch.js" timestamp="1520554086450">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-integration-test/nightwatch.conf.js" timestamp="1520624583755">
-        <mark key="[" line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/gqlQuery/fragments/AudienceTableFields.js" timestamp="1520041435333">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/user.js" timestamp="1520647546337">
-        <mark key="[" line="55" column="54" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/index.js" timestamp="1520553154949">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="module.js" timestamp="1519865884027">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/campaign/CampaignV2.jsx" timestamp="1520363582184">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="205" column="0" />
-        <mark key="." line="205" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1520561294142">
-        <mark key="[" line="83" column="44" />
-      </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/facebook-nodejs-business-sdk/src/abstract-crud-object.js" timestamp="1526679561961" />
     </filemarks>
     <jumps>
       <jump line="788" column="6" filename="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" />
