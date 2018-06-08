@@ -25,6 +25,7 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1528486096848" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/index.js" timestamp="1520552035452">
         <mark key="[" line="8" column="24" />
       </file>
@@ -55,7 +56,7 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1525911445356">
+      <file name="/JavaScript Console" timestamp="1528485283976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/facebook-ads-sdk/dist/cjs.js" timestamp="1526677151818">
@@ -70,13 +71,18 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/routes/wmx/audience/index.js" timestamp="1520553093087">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/InlineAudienceSegment.jsx" timestamp="1528230438333">
-        <mark key="[" line="29" column="12" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/InlineAudienceSegment.jsx" timestamp="1528485721376">
+        <mark key="[" line="30" column="78" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/scripts/utils/channel/fb.js" timestamp="1526679826790">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Form.jsx" timestamp="1528485463185">
+        <mark key="[" line="291" column="107" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/index.js" timestamp="1526679760254">
         <mark key="[" line="25" column="20" />
@@ -88,7 +94,7 @@
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528483888046">
+      <file name="/Dummy.txt" timestamp="1528486077010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -109,8 +115,10 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/epics/queryApnImports.js" timestamp="1525911006869">
         <mark key="[" line="5" column="130" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/forms/inputs/AudienceSegment.jsx" timestamp="1528228499237">
-        <mark key="[" line="9" column="46" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/forms/inputs/AudienceSegment.jsx" timestamp="1528484958146">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/wmx/strategies.js" timestamp="1520552848790">
         <mark key="[" line="8" column="68" />
@@ -185,10 +193,14 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1520561294142">
         <mark key="[" line="83" column="44" />
       </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Create.jsx" timestamp="1528485529417" />
       <file name="$USER_HOME$/Sites/wap-integration-test/nw_tests/login.js" timestamp="1520466098165">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/InlineAudienceSegmentConnectedForm.jsx" timestamp="1528485736959">
+        <mark key="[" line="16" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -218,31 +230,31 @@
         <text encoding="base64">ICAgICAgQVBOR2V0KCcvaW5zZXJ0aW9uLW9yZGVyJywgeyBudW1fZWxlbWVudHM6IExJTUlULCBvZmZzZXQ6IE9GRlNFVCwgc2VhcmNoOiBOQU1FLCBhZHZlcnRpc2VyX2lkOiByZXEuc2Vzc2lvbi5hY2NvdW50cy5hcG4gJiYgcmVxLnNlc3Npb24uYWNjb3VudHMuYXBuLmlkIH0sIHJlcS5zZXNzaW9uKS50aGVuKChyZXNwKSA9PiB7CiAgICAgICAgY29uc3QgcmVzcG9uc2UgPSByZXNwLmJvZHkgJiYgcmVzcC5ib2R5LnJlc3BvbnNlOwogICAgICAgIGlmIChyZXNwb25zZSkgewogICAgICAgICAgY29uc3QgYXBuT3JkZXJzUmVzdWx0ID0gcmVzcG9uc2VbJ2luc2VydGlvbi1vcmRlcnMnXS5tYXAoKElPKSA9PiB7CiAgICAgICAgICAgIGNvbnN0IHsgYnVkZ2V0X2ludGVydmFscyB9ID0gSU87CiAgICAgICAgICAgIGlmIChidWRnZXRfaW50ZXJ2YWxzICYmIGJ1ZGdldF9pbnRlcnZhbHMgIT09IFtdKSB7CiAgICAgICAgICAgICAgbGV0IGRhdGVzID0gYnVkZ2V0X2ludGVydmFscy5tYXAoYSA9PiBhLnN0YXJ0X2RhdGUpLmNvbmNhdChidWRnZXRfaW50ZXJ2YWxzLm1hcChhID0+IGEuZW5kX2RhdGUpKTsKICAgICAgICAgICAgICBkYXRlcy5zb3J0KChhLCBiKSA9PiBuZXcgRGF0ZShiKSAtIG5ldyBEYXRlKGEpKTsgLy8gc29ydCBmcm9tIG1vc3QgcmVjZW50IHRvIG9sZGVzdAogICAgICAgICAgICAgIGlmICghSU8uc3RhcnRfZGF0ZSkgewogICAgICAgICAgICAgICAgSU8uc3RhcnREYXRlVGltZSA9IGRhdGVzW2RhdGVzLmxlbmd0aCAtIDFdOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBpZiAoIUlPLmVuZF9kYXRlKSB7CiAgICAgICAgICAgICAgICBJTy5lbmREYXRlVGltZSA9IGRhdGVzWzBdOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBJTy5pbXBvcnRlZCA9ICEhd214QXBuRXh0ZXJuYWxJZHNPYmpbSU8uaWRdOwogICAgICAgICAgICByZXR1cm4gSU87CiAgICAgICAgICB9KTsKICAgICAgICAgIHJlcy5zdGF0dXMoMjAwKS5zZW5kKHsgc3RhcnRJbmRleDogT0ZGU0VULCB0b3RhbFJlc3VsdFNldFNpemU6IHJlc3BvbnNlLmNvdW50LCByZXN1bHRzOiBhcG5PcmRlcnNSZXN1bHQgfSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVW5leHBlY3RlZCByZXNwb25zZScpOwogICAgICAgIH0KICAgICAgfSkuY2F0Y2goKGVycikgPT4gewogICAgICAgIHJlcy5zdGF0dXMoNTAwKS5zZW5kKHsgZXJyIH0pOwogICAgICB9KTsKICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXBpID0gRmFjZWJvb2tBZHNBcGRkaS5pbml0KGFjY2Vzc1Rva2VuKTsK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOyBkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnRUaW1lOwogICAgICAgIGxldCBlbmRUaW1lOwogICAgICAgIGlmICh0aW1lRmllbGRzKSB7CiAgICAgICAgICBzdGFydFRpbWUgPSBwYXJzZURmcERhdGVPYmoob3RoZXJzLnN0YXJ0RGF0ZVRpbWUpOwogICAgICAgICAgZW5kVGltZSA9IHBhcnNlRGZwRGF0ZU9iaihvdGhlcnMuZW5kRGF0ZVRpbWUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGRhdGUsIGhvdXIsIG1pbnV0ZSwgc2Vjb25kLCB0aW1lWm9uZUlEIH0gPSBkYXRlT2JqOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYXBpID0gRmFjZWJvb2tBZHNBcGRkaS5pbml0KGFjY2Vzc1Rva2VuKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhcnRUaW1lOwogICAgICAgIGxldCBlbmRUaW1lOwogICAgICAgIGlmICh0aW1lRmllbGRzKSB7CiAgICAgICAgICBzdGFydFRpbWUgPSBwYXJzZURmcERhdGVPYmoob3RoZXJzLnN0YXJ0RGF0ZVRpbWUpOwogICAgICAgICAgZW5kVGltZSA9IHBhcnNlRGZwRGF0ZU9iaihvdGhlcnMuZW5kRGF0ZVRpbWUpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCB7IGRhdGUsIGhvdXIsIG1pbnV0ZSwgc2Vjb25kLCB0aW1lWm9uZUlEIH0gPSBkYXRlT2JqOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kVGltZSA9IG90aGVycy5lbmREYXRlVGltZTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUaW1lID0gb3RoZXJzLnN0YXJ0RGF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kVGltZSA9IG90aGVycy5lbmREYXRlVGltZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChjaGFubmVsID09PSAnZGZwJykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRUaW1lID0gb3RoZXJzLnN0YXJ0RGF0ZVRpbWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
