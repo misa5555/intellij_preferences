@@ -17,7 +17,6 @@
         <mark key="]" line="7" column="41" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/tables/formatters.jsx" timestamp="1528486096848" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/index.js" timestamp="1520552035452">
         <mark key="[" line="8" column="24" />
       </file>
@@ -58,6 +57,9 @@
         <mark key="[" line="136" column="0" />
         <mark key="]" line="145" column="26" />
         <mark key="." line="332" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Create2.jsx" timestamp="1528778766013">
+        <mark key="[" line="122" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/productsets/index.jsx" timestamp="1520015928840">
         <mark key="[" line="140" column="123" />
@@ -151,7 +153,7 @@
         <mark key="]" line="371" column="0" />
         <mark key="." line="371" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1528485283976">
+      <file name="/JavaScript Console" timestamp="1528778390456">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/node_modules/facebook-ads-sdk/dist/cjs.js" timestamp="1526677151818">
@@ -160,7 +162,7 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Form.jsx" timestamp="1528485463185">
         <mark key="[" line="291" column="107" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528752205152">
+      <file name="/Dummy.txt" timestamp="1528778315848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -186,8 +188,8 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/server/utils/dfp/user.js" timestamp="1520647546337">
         <mark key="[" line="55" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1528752250130">
-        <mark key="[" line="182" column="24" />
+      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/v2/SummaryAndSave.jsx" timestamp="1528778345882">
+        <mark key="[" line="182" column="41" />
         <mark key="]" line="182" column="24" />
         <mark key="." line="182" column="24" />
         <mark key="^" line="179" column="24" />
@@ -208,7 +210,6 @@
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/loadenv.js" timestamp="1520561294142">
         <mark key="[" line="83" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/app/pages/audience/Create.jsx" timestamp="1528485529417" />
       <file name="$USER_HOME$/Sites/wap-dashboard-ui/src/components/audience/InlineAudienceSegmentConnectedForm.jsx" timestamp="1528485736959">
         <mark key="[" line="16" column="37" />
       </file>
